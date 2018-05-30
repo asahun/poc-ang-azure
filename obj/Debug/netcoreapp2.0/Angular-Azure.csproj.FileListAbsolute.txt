@@ -1,0 +1,11 @@
+/Users/linkedin/Documents/Angular-Azure/Angular-Azure/bin/Debug/netcoreapp2.0/Angular-Azure.deps.json
+/Users/linkedin/Documents/Angular-Azure/Angular-Azure/bin/Debug/netcoreapp2.0/Angular-Azure.runtimeconfig.json
+/Users/linkedin/Documents/Angular-Azure/Angular-Azure/bin/Debug/netcoreapp2.0/Angular-Azure.runtimeconfig.dev.json
+/Users/linkedin/Documents/Angular-Azure/Angular-Azure/bin/Debug/netcoreapp2.0/Angular-Azure.dll
+/Users/linkedin/Documents/Angular-Azure/Angular-Azure/bin/Debug/netcoreapp2.0/Angular-Azure.pdb
+/Users/linkedin/Documents/Angular-Azure/Angular-Azure/obj/Debug/netcoreapp2.0/Angular-Azure.csprojResolveAssemblyReference.cache
+/Users/linkedin/Documents/Angular-Azure/Angular-Azure/obj/Debug/netcoreapp2.0/Angular-Azure.csproj.CoreCompileInputs.cache
+/Users/linkedin/Documents/Angular-Azure/Angular-Azure/obj/Debug/netcoreapp2.0/Angular-Azure.AssemblyInfoInputs.cache
+/Users/linkedin/Documents/Angular-Azure/Angular-Azure/obj/Debug/netcoreapp2.0/Angular-Azure.AssemblyInfo.cs
+/Users/linkedin/Documents/Angular-Azure/Angular-Azure/obj/Debug/netcoreapp2.0/Angular-Azure.dll
+/Users/linkedin/Documents/Angular-Azure/Angular-Azure/obj/Debug/netcoreapp2.0/Angular-Azure.pdb

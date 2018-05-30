@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{B5915AD1-24A7-4FCA-B28B-0D0B95B53018}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClientApp/app/services/auth.service.ts">
+    <Files>
+      <File FileName="ClientApp/app/services/auth.service.ts" Line="43" Column="17" />
+      <File FileName="ClientApp/app/components/app/app.component.ts" Line="12" Column="44" />
+      <File FileName="ClientApp/app/components/fetchdata/fetchdata.component.ts" Line="12" Column="92" />
+      <File FileName="ClientApp/app/components/navmenu/navmenu.component.ts" Line="12" Column="5" />
+      <File FileName="ClientApp/app/components/navmenu/navmenu.component.html" Line="37" Column="80" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Angular-Azure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

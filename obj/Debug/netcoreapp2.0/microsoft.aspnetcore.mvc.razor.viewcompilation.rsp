@@ -1,0 +1,9 @@
+/Users/linkedin/Documents/Angular-Azure/Angular-Azure
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=Angular-Azure
+--content-root=/Users/linkedin/Documents/Angular-Azure/Angular-Azure
+--file=/Users/linkedin/Documents/Angular-Azure/Angular-Azure/Views/Home/Index.cshtml
+--file=/Users/linkedin/Documents/Angular-Azure/Angular-Azure/Views/Shared/Error.cshtml
+--file=/Users/linkedin/Documents/Angular-Azure/Angular-Azure/Views/Shared/_Layout.cshtml
+--file=/Users/linkedin/Documents/Angular-Azure/Angular-Azure/Views/_ViewImports.cshtml
+--file=/Users/linkedin/Documents/Angular-Azure/Angular-Azure/Views/_ViewStart.cshtml
